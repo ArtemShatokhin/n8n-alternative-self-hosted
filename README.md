@@ -57,3 +57,13 @@ The source is public. Read it, fork it, audit it at [Kortix on GitHub](https://g
 - Get started: [Kortix](https://kortix.com)
 - Self-host or managed, compared in detail: [the open-source n8n alternative](https://n8n-alternative.com/open-source-n8n-alternative)
 - Moving one job across today: [migrate from n8n](https://n8n-alternative.com/migrate-from-n8n)
+
+## The questions this repository does not answer
+
+Five newer guides on the companion site cover the rest of the switch, each built from the vendor's own live pages:
+
+- Whether n8n is open source at all, and what fair-code permits, checked against n8n's own docs: [is n8n open source](https://n8n-alternative.com/is-n8n-open-source).
+- How n8n and Zapier each bill, run next to an open-source system you own: [n8n vs Zapier](https://n8n-alternative.com/n8n-vs-zapier).
+- The developer's decision between a workflow engine and an agent that plans its own steps: [n8n alternatives for developers](https://n8n-alternative.com/n8n-alternatives-for-developers).
+- A code-first DAG orchestrator beside a canvas and beside a session on its own machine: [n8n vs Airflow](https://n8n-alternative.com/n8n-vs-airflow).
+- What a company needs past the free tier: SSO, per-resource permissions, an audit trail and a self-host path, in [n8n for enterprise](https://n8n-alternative.com/n8n-for-enterprise).
