@@ -8,7 +8,7 @@ Self-hosting an open-source n8n alternative decides where the configuration, the
 
 Kortix is the open-source AI Operating System: your agents, their skills, your company memory, and every connector live in one git repo you own. Self-hosting runs the control plane of that system on hardware you control. Agent sessions run on a separate sandbox provider, so the machine that serves the app and the machines that run the work stay separate.
 
-That split matters for sizing and for security. The stack you host is the frontend, the API, the LLM gateway, and the Supabase distribution. The sessions an agent runs are provisioned by a sandbox provider: the default is Daytona, and Platinum and E2B are also supported. On a self-hosted instance the models are your own key by default, set in the model picker after the stack is up.
+That split matters for sizing and for security. The stack you host is the frontend, the API, the LLM gateway, and the Supabase distribution. The sessions an agent runs are provisioned by a sandbox provider: the default is Platinum, and Daytona remains available as a legacy fallback. On a self-hosted instance the models are your own key by default, set in the model picker after the stack is up.
 
 ## The three install paths
 
